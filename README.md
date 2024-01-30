@@ -2,11 +2,11 @@
 
 This is my portfolio that houses all the data science projects I have done in my free time. This is for self-learning and expanding my knowledge in this field. 
 
-* LinkedIn: www.linkedin.com/in/ethan-lapaczonek-54366923a
+* LinkedIn: [LinkedIn](www.linkedin.com/in/ethan-lapaczonek-54366923a)
   
-* Email: ethanlapa18@gmail.com
+* Email: [](ethanlapa18@gmail.com)
 
-* Kaggle: https://www.kaggle.com/ethanl18
+* Kaggle: [](https://www.kaggle.com/ethanl18)
 
 * Certificate: https://www.coursera.org/account/accomplishments/professional-cert/HY6RS3GUS39V?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof
 
