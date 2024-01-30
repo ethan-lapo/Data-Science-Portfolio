@@ -8,7 +8,7 @@ This is my portfolio that houses all the data science projects I have done in my
 
 * Kaggle: https://www.kaggle.com/ethanl18
 
-## Projects
+# Projects
 
 ### House Sales Price Prediction
 **[House Prediction Kaggle Competition](https://github.com/ethan-lapo/House-Prediction-Kaggle-Competition.git)
