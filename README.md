@@ -10,4 +10,4 @@ This is my portfolio that combines all the data science projects I have done. Th
 
 ## Projects
 
-In this Kaggle competition, I was tasked with predicting the price of what a house sells for. 
+In this Kaggle competition, I was tasked with predicting the price of what a house sells for. I cleaned the data and used a Gradient Boosted Regression model to predict the sales price given a number of features. 
