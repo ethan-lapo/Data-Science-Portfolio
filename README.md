@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-This is my portfolio that combines all the data science projects I have done. This is for self-learning and expanding my knowledge in this field. 
+This is my portfolio that houses all the data science projects I have done in my free time. This is for self-learning and expanding my knowledge in this field. 
 
 * LinkedIn: www.linkedin.com/in/ethan-lapaczonek-54366923a
   
