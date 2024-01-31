@@ -31,7 +31,7 @@ I was given the stroke prediction dataset from Kaggle and wanted to develop a mo
 
 
 ### Used Car Price Prediction
-![Car](/assets/img/stroke_image.jpg)
+![Car](/assets/img/used_car.jpg)
 
 [Car Prediction](https://github.com/ethan-lapo/Car-Prediction.git)
 
