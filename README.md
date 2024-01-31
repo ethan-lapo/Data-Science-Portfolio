@@ -23,6 +23,8 @@ In this Kaggle competition, I was tasked with predicting the price of what a hou
 
 
 ### Stroke Prediction
+![House](/assets/img/header.png)
 
+[Stroke Prediction](https://github.com/ethan-lapo/Stroke-Prediction.git)
 
 I was given the stroke prediction dataset from Kaggle and wanted to develop a model that would predict if a patient is likely to have a stroke. The model I came up with was a logistic regression model that limits the amount of false negatives. 
