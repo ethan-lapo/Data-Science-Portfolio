@@ -13,6 +13,14 @@ This is my portfolio that houses all the data science projects I have done in my
 
 # Projects
 
+### Customer Churn Prediction
+![Churn](/assets/img/customer_churn.jpeg)
+
+[Customer Churn](https://github.com/ethan-lapo/Customer-Churn.git)
+
+I was tasked with predicting whether or not a customer would churn for the final project in one of my masters classes. I used a real-world dataset and logistic regression for the model.
+
+
 ### House Sales Price Prediction
 ![House](/assets/img/header.png)
 
